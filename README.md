@@ -1,3 +1,5 @@
+LINK TO OPEN THE DATASET **[COMING SOON]()**
+
 # Image-Age-and-Breed-Classification
 This project utilizes machine learning techniques to classify images based on two key factors: age estimation of people and identification of animal breeds. The implementation leverages optimized algorithms and GPU acceleration to ensure efficient training and reliable classification results. Explore the fascinating world of image classification with this project!
 
